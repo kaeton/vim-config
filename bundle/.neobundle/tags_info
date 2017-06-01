@@ -1,0 +1,9 @@
+caw.vim
+neobundle.vim
+syntastic
+unite.vim
+vim-easymotion
+vim-flake8
+vim-fugitive
+vim-json
+vim-quickrun
